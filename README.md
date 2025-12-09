@@ -1,4 +1,5 @@
 🩺 MedSim-AI: Sentetik Tıbbi Vaka Simülasyon Motoru
+
 MedSim-AI, tıp eğitimi ve klinik simülasyonlar için yüksek doğrulukta, epidemiyolojik olarak tutarlı ve yapılandırılmış (JSON) sentetik hasta verileri üreten gelişmiş bir yapay zeka hattıdır (pipeline).
 Bu proje, genel amaçlı LLM'lerin (Llama 3 8B vb.) tıbbi terminoloji ve senaryo tutarlılığındaki yetersizliklerini aşmak için Knowledge Distillation (Bilgi Damıtma) yöntemini kullanır.
 🚀 Temel Özellikler
