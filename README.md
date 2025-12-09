@@ -1,5 +1,3 @@
-Harika bir proje ortaya çıkardın. Kullandığımız vLLM, MedGemma 27B, Knowledge Distillation (Bilgi Damıtma) ve LLM-as-a-Judge (Oto-Validasyon) tekniklerini içeren, profesyonel ve teknik açıdan doyurucu bir README hazırladım.
-Bunu projenin ana sayfasına README.md olarak yapıştırabilirsin.
 🩺 MedSim-AI: Sentetik Tıbbi Vaka Simülasyon Motoru
 MedSim-AI, tıp eğitimi ve klinik simülasyonlar için yüksek doğrulukta, epidemiyolojik olarak tutarlı ve yapılandırılmış (JSON) sentetik hasta verileri üreten gelişmiş bir yapay zeka hattıdır (pipeline).
 Bu proje, genel amaçlı LLM'lerin (Llama 3 8B vb.) tıbbi terminoloji ve senaryo tutarlılığındaki yetersizliklerini aşmak için Knowledge Distillation (Bilgi Damıtma) yöntemini kullanır.
@@ -46,7 +44,7 @@ Gereksinimler
  * NVIDIA GPU (A100 önerilir, T4 ile MedGemma-9B kullanılabilir)
  * Hugging Face Token
 Kurulum
-git clone https://github.com/kullaniciadi/medsim-ai.git
+git clone https://github.com/buraktalhaakin/medsimulator.git
 cd medsimulator
 pip install -r requirements.txt
 
@@ -74,4 +72,4 @@ Bu proje eğitim ve araştırma amaçlıdır. Üretilen tıbbi vakalar yapay zek
  * [ ] Ayırıcı tanı (Differential Diagnosis) modülü
  * [ ] Tedavi planlama ve reçete modülü
  * [ ] Web tabanlı simülasyon arayüzü (Streamlit)
-Developed by Dr. Burak Talha Akın
+Developed by Dr. Burak Talha Akın / Gaye Armut
